@@ -11,5 +11,6 @@
 - по фильмам, оцененным данным пользователем, построена модель линейной регрессии для рекомендации фильмов пользователям;
 - средствами Spark проведен анализ средней оценки по фильмам и жанрам, а также определен ТОП-5 фильмов.
 
-<div align="left"><a href="https://github.com/PetrukhinSergey/SQL_air-transportation/blob/main/SQL_air-transportation.sql" target="_blank">SQL_air-transportation.sql</a><img src="https://user-images.githubusercontent.com/108893866/179385582-25cdd117-2530-42e3-b7dc-1edd323f3e68.png" width="120" />
+<div align="left"><a href="https://github.com/PetrukhinSergey/Big-Data-starting/blob/main/%D0%98%D1%82%D0%BE%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0_%22Big_Data_c_%D0%BD%D1%83%D0%BB%D1%8F%22.ipynb" target="_blank">Big DAta с нуля</a>
+<img src="https://user-images.githubusercontent.com/108893866/179799006-e6f4eadd-9b03-4bf7-a1ab-ba4145e5f9e8.png" width="100" />
 </div>
